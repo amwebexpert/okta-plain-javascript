@@ -1,5 +1,9 @@
 # SPA Okta login / logout demo
 
+Concrete example of Okta global authentification mechanism using their javascript widget.
+Inspired by https://developer.okta.com/blog/2018/06/08/add-authentication-to-any-web-page-in-10-minutes
+
+
 ## Setup
 
 * Insure NPX is installed (test it using `npx --version`)
